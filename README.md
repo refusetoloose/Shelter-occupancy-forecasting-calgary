@@ -33,7 +33,7 @@ Original emergency shelter occupancy data from Alberta Open Data covering 2013�
 Pre-processed version of the dataset used for forecasting and dashboard integration.
 
 ### 6. 📽️ Capstone Presentation  
-**`Shelter_Occupancy_Forecasting_Capstone_Presentation.pptx`**  
+**`Shelter_Occupancy_Forecasting_Capstone_Presentation.pdf`**  
 Summarizes project scope, methodology, tools used, forecasting outcomes, and action plan insights. Presented during CapCon 2025 at SAIT.
 
 ### 7. 📄 Action Plan Toolkit  
