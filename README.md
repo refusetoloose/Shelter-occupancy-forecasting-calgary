@@ -74,7 +74,7 @@ One-page summary used during CapCon 2025 to highlight the project's goals, probl
 ## 🔗 Related Links
 
 - [Forecasting Web App (Live)](https://firstconsultinggroup.shinyapps.io/ShelterOccupancyForecast/)
-- [Power BI Dashboard (Live Demo)](https://app.powerbi.com/links/0-YCl6BC8x?ctid=f52f2183-9f67-4ad2-b656-6f754fe196cb&pbi_source=linkShare)
+- [Power BI Dashboard (Live Demo)](https://app.powerbi.com/view?r=eyJrIjoiMjIwMzhiY2ItNWJlMi00ZWIwLTk3ODMtYzBmYWNiNTMzNTAyIiwidCI6ImY1MmYyMTgzLTlmNjctNGFkMi1iNjU2LTZmNzU0ZmUxOTZjYiIsImMiOjZ9)
 - [SAIT Business Programs](https://www.sait.ca/programs-and-courses)
 
 ---
