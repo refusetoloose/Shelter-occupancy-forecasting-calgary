@@ -11,7 +11,7 @@ Emergency shelters in Calgary face highly seasonal and unpredictable demand. Exi
 ## 📁 Project Files
 
 ### 1. 📄 Final Project Report  
-**`Shelter_Occupancy_Forecasting_Final_Report.docx`**  
+**`Shelter_Occupancy_Forecasting_Final_Report.pdf`**  
 Comprehensive documentation including project scope, methodology, literature review, competitive analysis, forecasting results, stakeholder analysis, and action strategies.
 
 ### 2. 📊 Shelter Occupancy Dashboard  
